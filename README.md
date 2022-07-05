@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ervpadilla
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ruby and ruby on rails
 - 📫 How to reach me: ervpadilla@gmail.com
 
 <!---
